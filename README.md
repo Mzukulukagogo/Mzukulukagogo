@@ -4,19 +4,15 @@ My name is Anesu Masango, also known as @Mzukulukagogo on GitHub. Welcome to my 
 
 ## 👀 I’m interested in ...
 - Computers and technology
-- Learning new skills and knowledge
-- Reading novels
-- Cooking
-- Tech
+- Reading
+- writing
 - art
 
 ## 🌱 I’m currently learning ...
 - Computer Science
 
 ## 💞️ I’m looking to collaborate on ...
-- Open source projects
-- Innovative tech solutions
-- Anything that combines art and technology
+- Anything 
 
 ## 📫 How to reach me ...
 - Email: [anesuryanmasango@gmail.com](mailto:anesuryanmasango@gmail.com)
@@ -24,8 +20,7 @@ My name is Anesu Masango, also known as @Mzukulukagogo on GitHub. Welcome to my 
 ## 😄 Pronouns:
 - His/Him
 
-## ⚡ Fun fact:
-- I have a passion for both tech and culinary arts, and I enjoy blending creativity with technology in my projects.
+
 
 <!---
 Mzukulukagogo/Mzukulukagogo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
