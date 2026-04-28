@@ -1,28 +1,30 @@
-# 👋 Hi, I’m @Mzukulukagogo
+# Anesu Masango (@Mzukulukagogo)
 
-My name is Anesu Masango, also known as @Mzukulukagogo on GitHub. Welcome to my profile!
+Computer science student building backend-focused tools with an emphasis on data processing and system design.
 
-## 👀 I’m interested in ...
-- Computers and technology
-- Reading
-- writing
-- art
+## Stack
+- Languages: Python, C, Java, HTML, CSS  
+- Tools: Flask, Git, basic CLI  
 
-## 🌱 I’m currently learning ...
-- Computer Science
+## Featured Project
 
-## 💞️ I’m looking to collaborate on ...
-- Anything 
+### FinSight — Bank Statement Analyser
+Parses Indian bank statement PDFs, reconstructs transactions from multi-line formats, categorises spending, and generates a visual dashboard.
 
-## 📫 How to reach me ...
-- Email: [anesuryanmasango@gmail.com](mailto:anesuryanmasango@gmail.com)
+Key points
+- Built a custom parser to handle non-linear PDF structures (backward line scanning)
+- Implemented rule-based categorisation with UPI-aware logic for peer transfers
+- Designed a stateless Flask backend with per-request processing
+- Produced summary metrics and trend visualisation using Chart.js
 
-## 😄 Pronouns:
-- His/Him
+Tech
+Python, Flask, pdfplumber, HTML/CSS/JS
 
+Repo
+https://github.com/Mzukulukagogo/Project-1
 
+## Direction
+Focused on improving backend engineering skills, especially in parsing, data transformation, and building structured APIs.
 
-<!---
-Mzukulukagogo/Mzukulukagogo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Contact
+anesuryanmasango@gmail.com
