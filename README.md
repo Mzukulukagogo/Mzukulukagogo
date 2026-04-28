@@ -21,7 +21,7 @@ Tech
 Python, Flask, pdfplumber, HTML/CSS/JS
 
 Repo
-https://github.com/Mzukulukagogo/Project-1
+https://github.com/Mzukulukagogo/FinSight
 
 ## Direction
 Focused on improving backend engineering skills, especially in parsing, data transformation, and building structured APIs.
